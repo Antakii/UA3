@@ -37,6 +37,6 @@ Nous espérons que vous apprécierez votre visite sur notre site Web et que vous
 
 
 
-Ahmed Amine Antaki(le home page et sign up) 
+Ahmed Amine Antaki
 
 
