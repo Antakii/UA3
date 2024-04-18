@@ -23,7 +23,10 @@ CSS : pour le style du jeu
 JavaScript : pour la fonctionnalité du jeu, y compris l'IA et la physique de la balle
 
 Nous espérons que vous apprécierez votre visite sur notre site Web et que vous découvrirez ce qui rend notre produit différent. N'hésitez pas à nous contacter si vous avez des questions ou des commentaires.
+![2024-04-18 (1)](https://github.com/Antakii/UA3/assets/156337908/a3d97aba-fe0c-4aa1-ac5d-ae531efe5cd0)
 
 
 
-Ahmed Amine Antaki(le home page et sign up) / Mohamed amin sebkaoui (tech page et products page)
+Ahmed Amine Antaki(le home page et sign up) 
+
+
