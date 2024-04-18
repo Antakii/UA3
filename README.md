@@ -24,6 +24,16 @@ JavaScript : pour la fonctionnalité du jeu, y compris l'IA et la physique de la
 
 Nous espérons que vous apprécierez votre visite sur notre site Web et que vous découvrirez ce qui rend notre produit différent. N'hésitez pas à nous contacter si vous avez des questions ou des commentaires.
 ![2024-04-18 (1)](https://github.com/Antakii/UA3/assets/156337908/a3d97aba-fe0c-4aa1-ac5d-ae531efe5cd0)
+![2024-04-18 (6)](https://github.com/Antakii/UA3/assets/156337908/6842db1c-bb0f-4f94-b116-15db9f9423b2)
+
+![2024-04-18 (2)](https://github.com/Antakii/UA3/assets/156337908/ef0a3707-9949-4564-89b2-3f3b208ccc67)
+![2024-04-18 (3)](https://github.com/Antakii/UA3/assets/156337908/d83722c2-0ed0-4453-8c2a-2b7ef2b1c971)
+![2024-04-18 (4)](https://github.com/Antakii/UA3/assets/156337908/e197c9ab-e3c4-4588-8c6b-31883f748a73)
+![2024-04-18 (5)](https://github.com/Antakii/UA3/assets/156337908/9c23d6a8-2c49-471d-af33-de5efe32eb04)
+
+
+
+
 
 
 
